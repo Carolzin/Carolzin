@@ -1,5 +1,5 @@
 <div  align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6E96&width=435&lines=Ol%C3%A1!+Eu+sou+a+Caroline!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6E96&width=435&lines=Ol%C3%A1!+Bem-vindo+ao+meu+perfil!;Eu+sou+a+Caroline+Fernandes!" alt="Typing SVG" /></a>
 </div>
 
 
