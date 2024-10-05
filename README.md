@@ -30,11 +30,7 @@
 ###
 </div>
 
-
-<br clear="both">
-
 <h3 align="left">As minhas tecnologias ⋆.˚</h4>
-
 
 <br clear="both">
 
@@ -53,7 +49,7 @@
 </div>
 
 
-<br clear="both">
+
 
 <h3 align="left">Atualmente aprendendo... ✧･ﾟ: *✧･ﾟ:*</h4>
 
