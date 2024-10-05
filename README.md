@@ -27,7 +27,7 @@
 ###
 </div>
 
-<h3 align="left">As minhas tecnologias ⋆.˚</h4>
+<h3 align="left">As minhas tecnologias ✧･ﾟ: *✧･ﾟ:*</h4>
 
 <br clear="both">
 
